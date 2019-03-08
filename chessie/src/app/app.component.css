@@ -1,0 +1,18 @@
+button{
+  color: blue;
+  width: 20em;
+  font-size: 1em;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 2em;
+  flex-direction: column;
+}
+
+img{
+  width: 50%;
+  height: 50%;
+}
