@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-class LoginControl extends React.Component {
+export class Reyrey extends React.Component {
     constructor(props) {
       super(props);
       this.handleLoginClick = this.handleLoginClick.bind(this);
@@ -55,6 +55,6 @@ class LoginControl extends React.Component {
   }
    
   ReactDOM.render(
-    <LoginControl />,
+    <Reyrey />,
     document.getElementById('root')
   );
