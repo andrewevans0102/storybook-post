@@ -1,11 +1,11 @@
 # Storybook Post on Rhythm and Binary
-- This project showcases using Storybook with a React and Angular app
-- The apps are named after my cats Chessie and Reyrey
-- Read the blog post here for more info
+- This project showcases using Storybook with a React and Angular app for my post on Rhythm and Binarym here
+- The apps are named after my two cats
 
-<div>
-<img src="https://github.com/andrewevans02/storybook-post/blob/master/chessie/src/assets/Chessie.jpg" style="width:50%; height: 50%;">
-<img src="https://github.com/andrewevans02/storybook-post/blob/master/reyrey/src/Reyrey.jpg" style="width:50%; height: 50%;">
-</div>
+# Chessie
+![Chessie](https://github.com/andrewevans02/storybook-post/blob/master/chessie/src/assets/Chessie.jpg)
+
+# Reyrey
+![Reyrey](https://github.com/andrewevans02/storybook-post/blob/master/reyrey/src/Reyrey.jpg)
 
 
