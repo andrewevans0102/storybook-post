@@ -3,6 +3,8 @@
 - The apps are named after my cats Chessie and Reyrey
 - Read the blog post here for more info
 
-![Chessie](https://github.com/andrewevans02/storybook-post/blob/master/chessie/src/assets/Chessie.jpg =200x200)
+![Chessie](https://github.com/andrewevans02/storybook-post/blob/master/chessie/src/assets/Chessie.jpg)
+
+![Reyrey](https://github.com/andrewevans02/storybook-post/blob/master/reyrey/src/Reyrey.jpg)
 
 
