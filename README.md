@@ -4,8 +4,8 @@
 - Read the blog post here for more info
 
 <div>
-<img src="https://github.com/andrewevans02/storybook-post/blob/master/chessie/src/assets/Chessie.jpg">
-<img src="https://github.com/andrewevans02/storybook-post/blob/master/reyrey/src/Reyrey.jpg">
+<img src="https://github.com/andrewevans02/storybook-post/blob/master/chessie/src/assets/Chessie.jpg" style="width:50%; height: 50%;">
+<img src="https://github.com/andrewevans02/storybook-post/blob/master/reyrey/src/Reyrey.jpg" style="width:50%; height: 50%;">
 </div>
 
 
